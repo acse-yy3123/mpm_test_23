@@ -9,4 +9,10 @@ b = np.tan(np.pi/2)
 
 print(b)
 
+#from yifei
+c = np.cos(np.pi/2)
+print(c)
+#test
+
 #this is pepsi comment
+
